@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @polmod
 - 👀 I’m interested in the Revit API and ML.
-- 🌱 I’m currently learning acroyoga.
+- 🌱 I’m currently learning WPF.
 
 <!---
 polmod/polmod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
